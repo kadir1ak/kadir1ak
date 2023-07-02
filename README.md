@@ -102,5 +102,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=kadir1ak&icon=7&color=0)](https://visitcount.itsvg.in)
