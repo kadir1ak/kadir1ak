@@ -98,7 +98,7 @@
 <img src="https://rm.up.railway.app/" width="512px" />
 -->
 <div align="center">
-  <a ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gamhe3d6rihqba8navap6crup&count={count}) >
+  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gamhe3d6rihqba8navap6crup&count={count})">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
