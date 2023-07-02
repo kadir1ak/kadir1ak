@@ -97,5 +97,10 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px" />
 -->
+<div align="center">
+  <a href="https://open.spotify.com/user/gamhe3d6rihqba8navap6crup">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=kadir1ak&icon=7&color=0)](https://visitcount.itsvg.in)
