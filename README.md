@@ -1,5 +1,4 @@
 <!-- ********************************************************************* -->
-# 💫 About Me
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
 <h3 align="center">Software Development Engineer</h3>
 
