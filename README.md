@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
 <h3 align="center">Embedded Systems Engineer / Software Developer</h3>
 
-<p align="left">
-    <a href="https://twitter.com/kadir1ak" target="blank">
-        <img src="https://img.shields.io/twitter/follow/kadir1ak?logo=twitter&style=for-the-badge" alt="kadir1ak" /></a>
-</p>
+👋 Merhaba! Ben Kadir AK, 5+ yıllık deneyime sahip bir **.NET Core/Framework geliştiricisi** ve **gömülü C/C++ yazılım mühendisi**yim. TÜBİTAK, üniversiteler ve özel sektördeki projelerde aktif olarak yer aldım. Sensör veri ölçümü, analiz, kalibrasyon süreçleri, matematiksel modelleme algoritmaları geliştirme, kullanıcı arayüzü tasarımı, donanım programlama, sistem testleri ve ürün geliştirme döngülerinde uzmanım.
+
+---
 
 <h3 align="left">🌐 Socials (Connect with me):</h3>
 <p align="left">
@@ -29,7 +28,26 @@
 
 ---
 
-<h3 align="left">💻 Tech Stack (Languages and Tools):</h3>
+<h3 align="left">💼 İş Deneyimi</h3>
+
+### **Araştırma ve Geliştirme Proje Mühendisi**  
+**SEMAİ – Gebze, Kocaeli** (Kasım 2022 - Günümüz)  
+- **Proje Yöneticisi**: İş geliştirme, yazılım, gömülü sistemler ve ürün geri bildirimlerini analiz ederek ürün geliştirme süreçlerini yönettim.  
+- **Gömülü Sistem Mühendisi**: Sensör ekosistemini yöneten gömülü sistemler tasarladım ve USB FDC (Full-Duplex Communication) protokolü geliştirdim.  
+- **Yazılım Geliştirici**: C# ve WPF kullanarak kullanıcı dostu grafiksel arayüzler tasarladım ve test süreçlerini destekleyen yazılımlar geliştirdim.  
+
+### **Proje Mühendisi**  
+**Kocaeli Üniversitesi** (Ocak 2021 - Kasım 2022)  
+- Gömülü sistemler, donanım tasarımı ve sensör veri analizi üzerine araştırmalar gerçekleştirdim.  
+- Capnografi cihazının geliştirme süreçlerinde aktif rol aldım.  
+
+### **Araştırma Asistanı**  
+**TÜBİTAK Ulusal Metroloji Enstitüsü** (Nisan 2019 - Ocak 2020)  
+- COVID projesi kapsamında veri analizi ve matematiksel modelleme çalışmaları yaptım.  
+
+---
+
+<h3 align="left">🛠️ Teknik Beceriler</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -62,6 +80,29 @@
 
 ---
 
+<h3 align="left">📜 Sertifikalar ve Kurslar</h3>
+
+- **Elginkan Vakfı**: Elektronik Devre Tasarımı, Mikrodenetleyici Programlama (C, C++)  
+- **Udemy**:  
+  - Profesyonel C Programlama  
+  - Gömülü C Programlama  
+  - Altium Designer ile Donanım Tasarımı  
+  - MATLAB ile Dijital Sinyal İşleme  
+
+---
+
+<h3 align="left">🌟 Öne Çıkan Projeler</h3>
+
+### **Capnografi Cihazı Geliştirme**  
+- Gömülü sistemler, donanım tasarımı ve gaz sensörleri üzerine çalışmalar gerçekleştirdim.  
+- MATLAB kullanarak sinyal işleme ve kalibrasyon algoritmaları geliştirdim.  
+
+### **Sensör Veri Yönetimi ve Analiz Sistemi**  
+- Sensör verilerinin gerçek zamanlı izlenmesi için C# ve WPF ile kullanıcı arayüzü geliştirdim.  
+- USB FDC protokolü ile cihaz ve kullanıcı arayüzü arasındaki iletişimi optimize ettim.  
+
+---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact"
@@ -77,16 +118,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kadir1ak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=gamhe3d6rihqba8navap6crup&count={count}">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
