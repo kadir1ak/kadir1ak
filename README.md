@@ -32,14 +32,33 @@
 
 <h3 align="left">🎓 Education</h3>
 
-- **Kocaeli University** *(January 2025 - Present)*  
-  **Master's Degree in Biomedical Engineering**  
-- **Kocaeli University** *(2016 - 2020)*  
-  **Bachelor's Degree in Biomedical Engineering**  
-  - GPA: 2.98 / 4.00  
-- **Taşdelen İMKB Technical and Industrial High School** *(2011 - 2015)*  
-  **Information Technologies, Database Programming**  
-  - GPA: 81.72 / 100  
+### 📊 Most Used Languages
+
+#### Default View
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak)](https://github.com/kadir1ak/github-readme-stats)
+
+#### Compact Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=compact)](https://github.com/kadir1ak/github-readme-stats)
+
+#### Donut Chart Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=donut)](https://github.com/kadir1ak/github-readme-stats)
+
+#### Donut Vertical Chart Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=donut-vertical)](https://github.com/kadir1ak/github-readme-stats)
+
+#### Pie Chart Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=pie)](https://github.com/kadir1ak/github-readme-stats)
+
+#### Hide Progress Bars
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&hide_progress=true)](https://github.com/kadir1ak/github-readme-stats)
+
+---
+
+### Özelleştirme Seçenekleri
+- **Daha Fazla Dil Gösterimi**:  
+  ```markdown
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&langs_count=8)](https://github.com/kadir1ak/github-readme-stats)
+
 
 ---
 
