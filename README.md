@@ -14,8 +14,7 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 ---
 
 ## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=compact)
+[![Kadir AK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/kadir1ak)
 
 ---
 
