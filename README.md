@@ -32,13 +32,13 @@
 
 <h3 align="left">🎓 Education</h3>
 
-- **Master's Degree in Biomedical Engineering** *(January 2025 - Present)*  
-  **Kocaeli University**  
-- **Bachelor's Degree in Biomedical Engineering** *(2016 - 2020)*  
-  **Kocaeli University**  
+- **Kocaeli University** *(January 2025 - Present)*  
+  **Master's Degree in Biomedical Engineering**  
+- **Kocaeli University** *(2016 - 2020)*  
+  **Bachelor's Degree in Biomedical Engineering**  
   - GPA: 2.98 / 4.00  
-- **Information Technologies, Database Programming** *(2011 - 2015)*  
-  **Taşdelen İMKB Technical and Industrial High School**  
+- **Taşdelen İMKB Technical and Industrial High School** *(2011 - 2015)*  
+  **Information Technologies, Database Programming**  
   - GPA: 81.72 / 100  
 
 ---
@@ -93,5 +93,5 @@ const kadir = {
     speaker: "Tech Conferences",
     mentor: "University Projects"
   },
-  challenge: "I am currently doing the #100DaysOfCode challenge focused on React and TypeScript"
+  challenge: "I am currently doing the #100DaysOfCode challenge focused on C# wpf"
 };
