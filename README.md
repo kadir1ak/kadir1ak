@@ -81,17 +81,12 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 
 ---
 
-<h3 align="left">📜 Certifications</h3>
 
-- **Development of Electronic Circuit Design** *(Elginkan Foundation)*  
-- **Development of Microcontroller Programming with C** *(Elginkan Foundation)*  
-- **C++ Programming Development** *(Elginkan Foundation)*  
-- **Professional C Programming** *(Udemy)*  
-- **Microcontroller Embedded C Programming** *(Udemy)*  
-- **Mastering Microcontroller with Embedded Driver Development** *(Udemy)*  
-- **Hardware Design Engineering with Altium Designer** *(Udemy)*  
-- **Digital Signal Processing (DSP) From Ground Up™ with MATLAB** *(Udemy)*  
-- **Raspberry Pi and Internet of Things (IoT)** *(Udemy)*  
+<h3 align="left">📊 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/69000061/BI4IDy1AOHC3QznP.png?Expires=1741183429&Signature=JqCjTNr-MGKyVCNHCHos7SZDdOSuO6Ek95gENNX9JOVdG~bXMWAoqPXKA7cFwkLBlnvSnOBJzr0bEiZzEZAE4ScoopbDAS-3HFIZIRObJbtuV6LuDOVjKSDceC5RP-uJkO3mR-mE~cDR9Mgei4vbYKBgbL2WCtIukoscdWrZXQT8anmcRgZWI4AykEdTBAmQkwgExoWn4sAJu04NG9V-gmf9RCVyx8tLATnd1ZIbTQy9CjD8zNQDeVqz~AN0Cyf6Mq1CJ9SDOOruEADfTCdqPLgiMEIQtrxs0d4UlC2cxOdBg1a6AlKsuKJ2giEM8cnkyW1z4WULsaehZOyXxakzNw__&Key-Pair-Id=K3USGZIKWMDCSX" alt="Most Used Languages" />
+</p>
 
 ---
 
