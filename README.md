@@ -81,28 +81,9 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 
 ---
 
+### 📊 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirak&layout=compact&theme=radical)
 
-<h3 align="left">📊 Most Used Languages</h3>
-
-<p align="center">
-  <img src="https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/69000061/BI4IDy1AOHC3QznP.png?Expires=1741183429&Signature=JqCjTNr-MGKyVCNHCHos7SZDdOSuO6Ek95gENNX9JOVdG~bXMWAoqPXKA7cFwkLBlnvSnOBJzr0bEiZzEZAE4ScoopbDAS-3HFIZIRObJbtuV6LuDOVjKSDceC5RP-uJkO3mR-mE~cDR9Mgei4vbYKBgbL2WCtIukoscdWrZXQT8anmcRgZWI4AykEdTBAmQkwgExoWn4sAJu04NG9V-gmf9RCVyx8tLATnd1ZIbTQy9CjD8zNQDeVqz~AN0Cyf6Mq1CJ9SDOOruEADfTCdqPLgiMEIQtrxs0d4UlC2cxOdBg1a6AlKsuKJ2giEM8cnkyW1z4WULsaehZOyXxakzNw__&Key-Pair-Id=K3USGZIKWMDCSX" alt="Most Used Languages" />
-</p>
 
 ---
 
-<h3 align="left">📞 References</h3>
-
-- **Prof. Dr. Arif Özkan**  
-  - Phone: +90 542 23 59 29  
-  - Email: arif.ozkan@kocaeli.edu.tr  
-  - Kocaeli University  
-
-- **Dr. Öğr. Üyesi Faruk Aktaş**  
-  - Phone: +90 532 606 10 77  
-  - Email: faruk.aktas@kocaeli.edu.tr  
-  - Kocaeli University  
-
-- **Doç. Dr. İbrahim Mutlu**  
-  - Phone: +90 505 854 75 43  
-  - Email: ibrahim.mutlu@kocaeli.edu.tr  
-  - Kocaeli University  
