@@ -1,11 +1,15 @@
 <!-- ********************************************************************* -->
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
-<h3 align="center">Embedded Systems Engineer / Software Developer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
 
 👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience. I have contributed to projects at **TÜBİTAK**, universities, and private sector companies. My expertise includes sensor data measurement and analysis, data validation, calibration processes, mathematical modeling algorithms, user interface design, hardware programming, system testing, and product development cycles. I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.
+
+---
+
+<h3 align="left">🌟 About Me</h3>
+As a detail-oriented engineer, I develop analytical approaches to complex problems, optimize products, and deliver solutions tailored to project requirements. I am committed to providing innovative, high-quality solutions with a collaborative and forward-thinking mindset.
 
 ---
 
@@ -57,12 +61,6 @@
   <a href="https://github.com/kadir1ak"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/kadir1ak"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
----
-
-<h3 align="left">🌟 About Me</h3>
-
-As a detail-oriented engineer, I develop analytical approaches to complex problems, optimize products, and deliver solutions tailored to project requirements. I am committed to providing innovative, high-quality solutions with a collaborative and forward-thinking mindset.
 
 ---
 
