@@ -29,39 +29,6 @@
 - Focused on data analysis and mathematical modeling.  
 
 ---
-
-<h3 align="left">🎓 Education</h3>
-
-### 📊 Most Used Languages
-
-#### Default View
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak)](https://github.com/kadir1ak/github-readme-stats)
-
-#### Compact Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=compact)](https://github.com/kadir1ak/github-readme-stats)
-
-#### Donut Chart Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=donut)](https://github.com/kadir1ak/github-readme-stats)
-
-#### Donut Vertical Chart Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=donut-vertical)](https://github.com/kadir1ak/github-readme-stats)
-
-#### Pie Chart Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&layout=pie)](https://github.com/kadir1ak/github-readme-stats)
-
-#### Hide Progress Bars
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&hide_progress=true)](https://github.com/kadir1ak/github-readme-stats)
-
----
-
-### Özelleştirme Seçenekleri
-- **Daha Fazla Dil Gösterimi**:  
-  ```markdown
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir1ak&langs_count=8)](https://github.com/kadir1ak/github-readme-stats)
-
-
----
-
 <h3 align="left">🛠️ Skills</h3>
 
 #### **Software and Programming Languages**  
