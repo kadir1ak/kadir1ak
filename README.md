@@ -1,18 +1,15 @@
 <!-- ********************************************************************* -->
 
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
-
 <p align="center">
   <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/36/000000/gmail-new.png" alt="Email" /></a>
   <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/36/000000/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/36/000000/github.png" alt="GitHub" /></a>
   <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/36/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
-
 👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience.  
 I have contributed to projects at **TÜBİTAK**, universities, and private sector companies.  
 My expertise includes:  
@@ -21,12 +18,11 @@ My expertise includes:
 - Mathematical modeling algorithms  
 - User interface design  
 - Hardware programming, system testing, and product development cycles  
-
-I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.  
-"I aim to optimize machines before they dominate us! Let's innovate and code!"  
-
+<p align="center">
+  I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.<br>
+  <strong>"I aim to optimize machines before they dominate us! Let's innovate and code!"</strong>
+</p>
 ---
-
 ❤️ **Focus on:** Embedded Systems, .NET Core/Framework, C/C++, MATLAB  
 
 ### 🛠️ **Other Skills:**
