@@ -1,4 +1,39 @@
 <!-- ********************************************************************* -->
+
+
+# Kadir AK
+
+⚡ **Embedded Systems Engineer / Software Developer**  
+I specialize in embedded systems, software development, and innovative R&D solutions.  
+"I aim to optimize machines before they dominate us! Let's innovate and code!"  
+
+❤️ **Focus on:** Embedded Systems, .NET Core/Framework, C/C++, MATLAB  
+
+### **Other Skills:**
+- Programming: C#, Python, SQL, MySQL, MATLAB  
+- Hardware: STM32, ESP32, AVR, Raspberry Pi  
+- Communication Protocols: CAN, UART, I2C, SPI, USB/OTG  
+- Tools: VSCode, Altium Designer, MATLAB, WPF  
+- OS: Linux (Ubuntu, Raspbian), Windows  
+
+### **Professional Experience:**
+- **R&D Project Engineer** (November 2022 - Present)  
+  - Managed product development processes and designed embedded systems.  
+  - Developed USB FDC protocols, bootloader software, and calibration models.  
+  - Designed GUIs with WPF for real-time monitoring and analysis.  
+
+- **Project Engineer** (January 2021 - November 2022)  
+  - Conducted research on embedded systems and gas sensor technologies.  
+  - Developed signal processing and calibration algorithms.  
+
+- **Research Assistant** (April 2019 - January 2020)  
+  - Worked on COVID-related R&D projects, focusing on data analysis and modeling.  
+
+### **Education:**
+- **Master's Degree:** Biomedical Engineering, Kocaeli University (2025 - Present)  
+- **Bachelor's Degree:** Biomedical Engineering, Kocaeli University (2016 - 2020, GPA: 2.98)  
+
+
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
