@@ -69,7 +69,12 @@ const kadir = {
   challenge: "I am currently doing the #100DaysOfCode challenge focused on C# WPF"
 };
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" /></p>
+
+### 📊 **GitHub Stats**
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir1ak&show_icons=true&locale=en" alt="kadir1ak" />
+</p>
 
 ### 📫 **Contact Me:**
 - **Email:** [kadir.akx@gmail.com](mailto:kadir.akx@gmail.com)  
