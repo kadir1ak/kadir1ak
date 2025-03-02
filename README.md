@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
 
 <p align="center">
-  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" /></a>
-  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
-  <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/32/000000/gmail-new.png" alt="Email" /></a>
+  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/32/000000/github.png" alt="GitHub" /></a>
+  <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 <p align="center">
