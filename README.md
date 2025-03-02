@@ -36,10 +36,10 @@ I have contributed to projects at **TÜBİTAK**, universities, and private secto
 ❤️ **Focus on:** Embedded Systems, .NET Core/Framework, C/C++, MATLAB  
 
 ### 🛠️ **Other Skills:**
-- **Programming:** C#, Python, SQL, MySQL, MATLAB  
-- **Hardware:** STM32, ESP32, AVR, Raspberry Pi  
-- **Communication Protocols:** CAN, UART, I2C, SPI, USB/OTG  
-- **Tools:** VSCode, Altium Designer, MATLAB, WPF  
+- **Programming:** C, C++, C#, SQL, MySQL, MATLAB, C# WPF, .Net Core , .Net Framework  
+- **Hardware:** TI, STM32, ESP32, AVR, Raspberry Pi  
+- **Communication Protocols:** CAN, UART, I2C, SPI, USB/OTG, ESP-NOW  
+- **Tools:** Visual Studio, VSCode, STM32CubeIDE, Altium Designer, MATLAB  
 - **OS:** Linux (Ubuntu, Raspbian), Windows  
 
 ### 💼 **Professional Experience:**
