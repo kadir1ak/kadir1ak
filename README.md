@@ -10,19 +10,29 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
-👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience. I have contributed to projects at **TÜBİTAK**, universities, and private sector companies.  
-My expertise includes:  
-- Sensor data measurement and analysis  
-- Data validation and calibration processes  
-- Mathematical modeling algorithms  
-- User interface design  
-- Hardware programming, system testing, and product development cycles  
+
+👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience.  
+I have contributed to projects at **TÜBİTAK**, universities, and private sector companies.  
+
+### 🔍 **My Expertise Includes:**
+- **Sensor Data Measurement and Analysis:**  
+  Designing and implementing systems for accurate sensor data acquisition and processing.  
+- **Data Validation and Calibration Processes:**  
+  Developing algorithms for reliable validation and calibration of hardware systems.  
+- **Mathematical Modeling Algorithms:**  
+  Creating models for predictive analysis and system optimizations.  
+- **User Interface Design:**  
+  Building intuitive and user-friendly interfaces for embedded systems and software applications.  
+- **Hardware Programming & System Testing:**  
+  Programming microcontrollers, testing hardware, and managing product development cycles.  
+
 ---
+
 <p align="center">
   I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.<br>
   <strong>"I aim to optimize machines before they dominate us! Let's innovate and code!"</strong>
 </p>
----
+
 ❤️ **Focus on:** Embedded Systems, .NET Core/Framework, C/C++, MATLAB  
 
 ### 🛠️ **Other Skills:**
