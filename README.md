@@ -10,14 +10,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
-👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience.  
-I have contributed to projects at **TÜBİTAK**, universities, and private sector companies.  
+👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience. I have contributed to projects at **TÜBİTAK**, universities, and private sector companies.  
 My expertise includes:  
 - Sensor data measurement and analysis  
 - Data validation and calibration processes  
 - Mathematical modeling algorithms  
 - User interface design  
 - Hardware programming, system testing, and product development cycles  
+---
 <p align="center">
   I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.<br>
   <strong>"I aim to optimize machines before they dominate us! Let's innovate and code!"</strong>
