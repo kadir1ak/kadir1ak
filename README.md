@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
 
 👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience.  
@@ -74,14 +74,6 @@ const kadir = {
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir1ak&show_icons=true&locale=en" alt="kadir1ak" />
-</p>
-
-### 📫 **Contact Me:**
-<p align="center">
-  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" /></a>
-  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
-  <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 ### 📫 **Contact Me:**
