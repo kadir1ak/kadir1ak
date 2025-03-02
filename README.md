@@ -16,7 +16,6 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 ## 📊 Most Used Languages
 [![Kadir AK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/kadir1ak)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadir1ak&label=Profile%20views&color=0e75b6&style=flat" alt="kadir1ak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadir1ak" alt="kadir1ak" /></a> </p>
 
@@ -24,12 +23,7 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir1ak&show_icons=true&locale=en" alt="kadir1ak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadir1ak&" alt="kadir1ak" /></p>
-
-
-<img align="center" src="https://camo.githubusercontent.com/905a2819e717f4e5b0b1285c8f12e27457379bd67dae24c7c410b14576886531/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676e6379796c647a2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="kadir1ak" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 ---
 
 <h3 align="left">💼 Work Experience</h3>
