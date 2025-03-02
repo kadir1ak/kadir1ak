@@ -21,8 +21,6 @@ As a detail-oriented engineer, I develop analytical approaches to complex proble
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" /></p>
-
 
 ---
 
