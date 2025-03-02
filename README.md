@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Kadir AK</h1>
 
 <p align="center">
-  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kadir1ak"><img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://instagram.com/kadir1ak"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" /></a>
+  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
+  <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 <p align="center">
@@ -74,6 +74,14 @@ const kadir = {
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadir1ak&show_icons=true&locale=en&layout=compact" alt="kadir1ak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadir1ak&show_icons=true&locale=en" alt="kadir1ak" />
+</p>
+
+### 📫 **Contact Me:**
+<p align="center">
+  <a href="mailto:kadir.akx@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" /></a>
+  <a href="https://linkedin.com/in/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
+  <a href="https://instagram.com/kadir1ak"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 ### 📫 **Contact Me:**
