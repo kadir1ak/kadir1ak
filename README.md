@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Problem+Solver;Embedded+Systems+Engineer;Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kadir1ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadir1ak" height="30" width="40" /></a>
+<a href="https://instagram.com/kadir1ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kadir1ak" height="30" width="40" /></a>
+</p>
 👋 Hello! I’m **Kadir AK**, an **Embedded Systems Engineer** and **.NET Core/Framework Developer** with over 5 years of experience. I have contributed to projects at **TÜBİTAK**, universities, and private sector companies. My expertise includes sensor data measurement and analysis, data validation, calibration processes, mathematical modeling algorithms, user interface design, hardware programming, system testing, and product development cycles. I am passionate about solving complex problems and delivering innovative, high-quality solutions tailored to project requirements.
 
 ---
