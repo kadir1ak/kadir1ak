@@ -42,23 +42,6 @@ I have contributed to projects at **TÜBİTAK**, universities, and private secto
 - **Tools:** Visual Studio, VSCode, STM32CubeIDE, Altium Designer, MATLAB  
 - **OS:** Linux (Ubuntu, Raspbian), Windows  
 
-### 💼 **Professional Experience:**
-- **R&D Project Engineer** (November 2022 - Present)  
-  - Managed product development processes and designed embedded systems.  
-  - Developed USB FDC protocols, bootloader software, and calibration models.  
-  - Designed GUIs with WPF for real-time monitoring and analysis.  
-
-- **Project Engineer** (January 2021 - November 2022)  
-  - Conducted research on embedded systems and gas sensor technologies.  
-  - Developed signal processing and calibration algorithms.  
-
-- **Research Assistant** (April 2019 - January 2020)  
-  - Worked on COVID-related R&D projects, focusing on data analysis and modeling.  
-
-### 🎓 **Education:**
-- **Master's Degree:** Biomedical Engineering, Kocaeli University (2025 - Present)  
-- **Bachelor's Degree:** Biomedical Engineering, Kocaeli University (2016 - 2020)  
-
 ### 🎯 **A Little More About Me...**
 
 ```javascript
